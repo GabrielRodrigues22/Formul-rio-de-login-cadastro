@@ -1,0 +1,84 @@
+body{
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+    background-image:url(black-mulberry-paper-textured-background.jpg);
+    display: flex;
+}
+.form{
+    width: 600px;
+    background-color: rgb(172, 173, 173);
+    padding: 20px;
+    border-radius: 10px;
+    background-image: url();
+}
+.form .h{
+    margin-left: 5px;
+    color: black;
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+   
+}
+.form .caixa{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding-top: 5px;
+    padding-left: 10px;
+    width: 100%;
+    border-radius: 3px;
+    height: 30px;    
+    
+}
+.form .label{
+    
+    font-weight: bold;
+    font-size: 21px;
+    font-family:'Times New Roman', Times, serif;
+
+}
+a{
+    display: block;
+    margin-top: 0px;
+    font-size: 20px;
+    font-style:italic;
+    font-family:'Times New Roman', Times, serif;
+    text-align: right;
+    color:  rgb(211, 42, 42);
+}
+.logar{
+    margin-top: 20px;
+    margin-bottom: 10px ;
+    height: 25px;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+.cadastrar{
+    margin-top: 20px;
+    height: 25px;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+
+.G{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.envio{
+    color: antiquewhite;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.afterG{
+    margin-left: 5px;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+
+}
